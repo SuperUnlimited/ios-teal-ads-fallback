@@ -1,15 +1,5 @@
 {
   "admob": {
-    "placements": [
-      {
-        "name": "app_open",
-        "units": [
-          {
-            "type": "app_op",
-            "identifier": "ca-app-pub-3509434118277818/4247038555"
-          }
-        ]
-      }
-    ]
+    "placements": []
   }
 }
