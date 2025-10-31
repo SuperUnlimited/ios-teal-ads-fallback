@@ -2,15 +2,6 @@
   "admob": {
     "placements": [
       {
-        "name": "app_open",
-        "units": [
-          {
-            "type": "app_op",
-            "identifier": "ca-app-pub-3509434118277818/9724232457"
-          }
-        ]
-      },
-      {
         "name": "fullscreen_ad",
         "units": [
           {
