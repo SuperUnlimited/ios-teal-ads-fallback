@@ -2,52 +2,6 @@
   "admob": {
     "placements": [
       {
-        "name": "fullscreen_ad",
-        "units": [
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/3599605326"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/6978353803"
-          },
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/7538850332"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/9879849314"
-          },
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/5239990055"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/7361497186"
-          }
-        ]
-      },
-      {
-        "name": "native_banner_ad",
-        "units": [
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/9542197148"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/7075815908"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/6145877617"
-          }
-        ]
-      },
-      {
         "name": "banner_ad",
         "units": [
           {
